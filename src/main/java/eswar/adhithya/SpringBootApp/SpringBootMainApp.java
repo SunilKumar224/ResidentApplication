@@ -24,7 +24,6 @@ public class SpringBootMainApp {
 	{
 
 		System.out.println("this application has started");
-
 		SpringApplication.run(SpringBootMainApp.class, arg);
 	}
 	
