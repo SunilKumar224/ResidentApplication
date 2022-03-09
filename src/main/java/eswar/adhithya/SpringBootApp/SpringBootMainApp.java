@@ -22,7 +22,7 @@ public class SpringBootMainApp {
 
 	public static void main(String arg[]) 
 	{
-	
+		System.out.println("this application has started");
 		SpringApplication.run(SpringBootMainApp.class, arg);
 	}
 	
